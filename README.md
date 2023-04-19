@@ -14,7 +14,7 @@ Open the index.html file in your browser to view the wireframes.
 Navigate to the "css" folder to find the CSS snippets.
 Copy the desired CSS snippet and paste it into your own CSS file.
 Modify the snippet as needed to fit your specific wireframe requirements.
-Use the HTML markup provided in the index.html file to add content to your wireframe.
+Use the HTML markup provided in the tryme.html file to add content to your wireframe.
 
 #Contributing:
 
